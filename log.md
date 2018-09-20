@@ -10,3 +10,11 @@ Language: Ruby
 **Link to work:** [Election Time](https://github.com/adriennelim/jump-start/blob/master/exercise/election_time_enhanced.rb)
 
 
+### Day 2: September 19th, 2018
+Language: Ruby
+
+**Today's Progress**: Continue on refactoring ADA's Jump-Start exercise, 'Election Time'. Handle ties for a winner and improve grammar e.g. use 'vote' vs 'votes' based on output.
+
+**Thoughts:** 
+
+**Link to work:** [Election Time](https://github.com/adriennelim/jump-start/blob/master/exercise/election_time_enhanced.rb)
