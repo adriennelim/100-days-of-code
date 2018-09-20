@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+Round 1 - started September 18th, 2018
+
 ## Contents
 
 * [Rules](rules.md)
