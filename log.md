@@ -23,7 +23,7 @@ Calling one function from another is great because I get to write and test codes
 
 **Link to work:** [Election Time](https://github.com/adriennelim/jump-start/blob/master/exercise/election_time_enhanced.rb)
 
-### Day 2: September 20th, 2018
+### Day 3: September 20th, 2018
 Language: Ruby
 
 **Today's Progress**: Continue on refactoring ADA's Jump-Start exercise, 'Election Time'. Handle ties for a winner. 
@@ -33,3 +33,5 @@ Finally resolved the bugs and the infinity loop I accidentally created when I ca
 Should talk to some friends with coding knowledge and get their feedback on my code and also ask what their approach would've been if being asked to solve the same question. 
 
 **Link to work:** [Election Time](https://github.com/adriennelim/jump-start/blob/master/exercise/election_time_enhanced.rb)
+
+### Day 4: September 21st, 2018
