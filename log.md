@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+[twitter acc](https://twitter.com/adriennemclim)
+
 
 ### Day 1: September 18th, 2018
 Language: Ruby
