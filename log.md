@@ -34,4 +34,12 @@ Should talk to some friends with coding knowledge and get their feedback on my c
 
 **Link to work:** [Election Time](https://github.com/adriennelim/jump-start/blob/master/exercise/election_time_enhanced.rb)
 
-### Day 4: September 21st, 2018
+### Day 4,5,6: September 21st - 23rd, 2018
+freeCodeCamp
+
+**Progress**: 
+Reviewed/Redo fCC HTML & CSS (70 challenges in total)
+
+**Thoughts:** 
+Previously completed fCC to JavaScript section but have not practiced while learning Python & Ruby, so I decided to spend time to redo most of the challenges. 
+
