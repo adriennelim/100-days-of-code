@@ -51,6 +51,8 @@ Python
 **Thoughts:**
 I had previously attempted to build this game but hit some roadblocks so I am really happy for this to come together. I would like to work on this project again when I learn how to use Classes in Python.
 
+**Link to work:** [Tic-Tac-Toe](https://github.com/adriennelim/100-days-of-code/blob/master/projects/TicTacToe.py)
+
 ### Day 8,9: September 25-26th, 2018
 freeCodeCamp
 
