@@ -82,5 +82,23 @@ Be mindful about creating content for various viewports/ different screen sizes 
 
 **Today's Progress**: Completed fCC's CSS Flex Box challenges.
 
+### Day 14: October 2nd, 2018
+`freeCodeCamp`
 
+**Today's Progress**: Completed fCC's CSS Grid challenges and started working Tribute Page project
+
+**Thoughts:**
+Pretty daunting to write HTML + CSS codes from scratch! 
+
+**Link to work:** [fCC Tribute Page](https://codepen.io/adriennelim/pen/PyZpXL/)
+
+### Day 15: October 3rd, 2018
+`freeCodeCamp`
+
+**Today's Progress**: Completed Tribute Page project! 
+
+**Thoughts:**
+Focus on content first, then work on formatting later. Test on different screens if possible.
+
+**Link to work:** [fCC Tribute Page](https://codepen.io/adriennelim/pen/PyZpXL/)
 
