@@ -74,13 +74,14 @@ Pretty daunting to write HTML + CSS codes from scratch!
 Be mindful about creating content for various viewports/ different screen sizes & devices.
 
 
-### Day 10, 11: September 27-28th, 2018
+**Link to work:** [fCC Tribute Page](https://codepen.io/adriennelim/pen/PyZpXL/)
+
+
+### Day 13: October 1st, 2018
 `freeCodeCamp`
 
-**Today's Progress**: Completed fCC's Applied Accessibility challenges.
+**Today's Progress**: Completed fCC's CSS Flex Box challenges.
 
-**Thoughts:**
-I really appreciated the focus on increasing accessibility to include visually or hearing impaired users. It's definitely something I will keep in mind for my future designs.
 
 
 ### Day 8,9: September 25-26th, 2018
