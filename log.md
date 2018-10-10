@@ -7,7 +7,7 @@
 **Today's Progress**: Completed Product Landing Page project! Passed all fCC test suite checks.
 
 **Thoughts:**
-Further improvements to improve layout and alignment (especially the header) can be iplemented but I've decided to park it and move on to next project but will revisit from time to time. Another feature I want to implement is changing the 'select' button into something more useful -> allow user to add quantities of tea to a cart. Perhaps this is something I could work on after learning more JavaScript.
+Further improvements to improve layout and alignment (especially the header) can be iplemented but I've decided to park it and move on to next project but will revisit from time to time. Another feature I want to implement is changing the 'select' button into something more useful -> allow user to add quantities of tea to a cart and calculate totals. Perhaps this is something I could work on after learning more JavaScript.
 
 **Link to work:** [fCC Product Landing Page](https://codepen.io/adriennelim/full/OBbRaj/)
 
