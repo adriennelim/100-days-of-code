@@ -87,11 +87,13 @@ Be mindful about creating content for various viewports/ different screen sizes 
 **Link to work:** [fCC Tribute Page](https://codepen.io/adriennelim/pen/PyZpXL/)
 
 
-### Day 13: October 1st, 2018
+### Day 10,11: September 27-28th, 2018
 `freeCodeCamp`
 
-**Today's Progress**: Completed fCC's CSS Flex Box challenges.
+**Today's Progress**: Completed fCC's Applied Acessibility challenges.
 
+**Thoughts:**
+Be mindful and considerate about creating content for users with visual or auditory impairments. Utilize good alt text practice and color contrast ratios.
 
 
 ### Day 8,9: September 25-26th, 2018
