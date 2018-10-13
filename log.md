@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 [twitter acc](https://twitter.com/adriennemclim)
 
+### Day 22,23: October 11-12th, 2018
+`freeCodeCamp`
+
+**Today's Progress**: Continue working on Technical Documentation project. Passed 50% fCC test suite checks.
+
+**Thoughts:**
+Need to work out how to display source code in the content properly.
+
+
+**Link to work:** [fCC Product Landing Page](https://codepen.io/adriennelim/full/OBbRaj/)
+
+### Day 21: October 10th, 2018
+`Ruby`
+
+**Today's Progress**: Completed my first 3  katas in Codewars and levelled up to 7kyu.
+
+**Thoughts:**
+Really good to be able to see other people's codes that are ranked 'best practice'. My codes are lengthy and although it works, it is nice to see alternate solutions & learn new methods & comprehensions along the way.
+
+**Link to work:** [CodeWars](https://www.codewars.com/users/adriennelim)
+
 ### Day 19,20: October 7-9th, 2018
 `freeCodeCamp`
 
