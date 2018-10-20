@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 [twitter acc](https://twitter.com/adriennemclim)
 
+### Day 24: October 19th, 2018
+`freeCodeCamp`
+
+**Today's Progress**: Completed Technical Documentation project. Passed all fCC test suite checks.
+
+**Link to work:** [fCC Product Landing Page](https://codepen.io/adriennelim/full/OBbRaj/)
+
+```Rest - conjunctivitis!```
+
 ### Day 22,23: October 11-12th, 2018
 `freeCodeCamp`
 
@@ -8,7 +17,6 @@
 
 **Thoughts:**
 Need to work out how to display source code in the content properly.
-
 
 **Link to work:** [fCC Product Landing Page](https://codepen.io/adriennelim/full/OBbRaj/)
 
