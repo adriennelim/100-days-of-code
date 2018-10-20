@@ -8,7 +8,7 @@
 
 **Link to work:** [fCC Product Landing Page](https://codepen.io/adriennelim/full/OBbRaj/)
 
-```Rest - conjunctivitis!```
+#### Oct 13-18th: Rest - conjunctivitis!
 
 ### Day 22,23: October 11-12th, 2018
 `freeCodeCamp`
