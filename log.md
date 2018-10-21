@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 [twitter acc](https://twitter.com/adriennemclim)
 
+### Day 25: October 20th, 2018
+`freeCodeCamp`
+
+**Today's Progress**: Completed Portfolio project. Passed all fCC test suite checks. This is the final project for fCC's Responsive Web Design certification!
+
+**Thoughts**: 
+
+
+**Link to work:** [fCC Portfolio Page](https://codepen.io/adriennelim/full/LgZNjQ)
+[fCC Certification](https://www.freecodecamp.org/certification/adriennemclim/responsive-web-design)
+
 ### Day 24: October 19th, 2018
 `freeCodeCamp`
 
