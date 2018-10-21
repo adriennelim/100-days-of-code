@@ -6,7 +6,7 @@
 
 **Today's Progress**: Completed Portfolio project. Passed all fCC test suite checks. This is the final project for fCC's Responsive Web Design certification!
 
-**Thoughts**: 
+**Thoughts**: I want to work on adding some thumbnails to my codepen projects.
 
 
 **Link to work:** [fCC Portfolio Page](https://codepen.io/adriennelim/full/LgZNjQ)
