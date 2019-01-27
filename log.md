@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 [twitter acc](https://twitter.com/adriennemclim)
-
+<br>
+**Putting my 100days of coding challenge to focus on coding bootcamp prep & immersive**
+<br>
 ### Day 25: October 20th, 2018
 `freeCodeCamp`
 
