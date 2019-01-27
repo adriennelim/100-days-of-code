@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Round 1 - started September 18th, 2018
+Round 1 - started September 18th, 2018<br>
 **Decided to pause this challenge to focus on coding bootcamp prep & immersive**
 
 ## Contents
